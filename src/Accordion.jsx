@@ -35,11 +35,9 @@ function Accordion() {
     } else if (index == 1) {
       setVisibility1(!isVisible1);
     } else if (index == 2) {
-      setVisibility2(!isVisible1);
+      setVisibility2(!isVisible2);
     } else if (index == 3) {
       setVisibility3(!isVisible3);
-    } else if (index == 4) {
-      setVisibility4(!isVisible4);
     }
   }
 
